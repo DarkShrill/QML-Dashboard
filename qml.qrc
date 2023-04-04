@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/Area_Avg.png</file>
+        <file>images/Area_Km.png</file>
+        <file>images/Area_Min.png</file>
+        <file>images/Area_wh.png</file>
+        <file>images/background_empty.png</file>
+        <file>images/batteria_maschera.png</file>
+        <file>images/batteria_vuota.png</file>
+        <file>images/centrale.png</file>
+        <file>images/clock.png</file>
+        <file>images/contagiri_back.png</file>
+        <file>images/contagiri_top.png</file>
+        <file>images/D.png</file>
+        <file>images/ghiera+numeri.png</file>
+        <file>images/N.png</file>
+        <file>images/P.png</file>
+        <file>images/R.png</file>
+        <file>StatusBar.qml</file>
+        <file>MainDashboard.qml</file>
+        <file>Pie.qml</file>
+        <file>Tachimetro.qml</file>
+        <file>Cruise.qml</file>
+        <file>Battery.qml</file>
+    </qresource>
+</RCC>
